@@ -2,7 +2,7 @@ export default {
   // 网站标题
   Title: '明心官网',
   // 网站地址
-  Site: 'https://ef0cc80a.vhastro-theme-cv9.pages.dev',
+  Site: 'https://vhastro-theme-cv9.pages.dev',
   // 网站副标题
   Subtitle: '当玄学遇上AI',
   // 网站描述
