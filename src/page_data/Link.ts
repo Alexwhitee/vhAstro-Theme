@@ -4,16 +4,16 @@ export default {
   // api 为空则使用 data 静态数据
   data: [
     {
-      "name": "明心博客",
+      "name": "明心",
       "link": "https://www.vvhan.com",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640",
-      "descr": "运气是计划之外的东西."
-    },
-    {
-      "name": "明心API",
-      "link": "https://api.vvhan.com",
-      "avatar": "https://api.vvhan.com/static/images/logo.webp",
-      "descr": "免费Web API数据接口调用服务平台."
+      "descr": "心明则万象皆通。"
     }
+    // {
+    //   "name": "明心API",
+    //   "link": "https://api.vvhan.com",
+    //   "avatar": "https://api.vvhan.com/static/images/logo.webp",
+    //   "descr": "免费Web API数据接口调用服务平台."
+    // }
   ]
 }

@@ -12,5 +12,5 @@ type: "links"
 name: 明心官网
 link: https://vhastro-theme-cv9.pages.dev
 avatar: https://22361523.zycs-img-bys.pages.dev/v2/fpCWd1e.jpeg
-desc: 运气是计划之外的东西.
+desc: 心明则万象皆通。
 ```

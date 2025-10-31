@@ -6,6 +6,3 @@ layout: "@/layouts/ToolLayout/ToolLayout.astro"
 type: "talking"
 ---
 
-:::note{type="import"}
-这里记录着我想记录的生活～
-:::
