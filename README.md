@@ -354,10 +354,10 @@ export default {
   },
   // 文章内赞赏码
   Reward: {
-    // 支付宝收款码
-    AliPay: '/assets/images/alipay.webp',
-    // 微信收款码
-    WeChat: '/assets/images/wechat.webp'
+    // // 支付宝收款码
+    // AliPay: '/assets/images/alipay.webp',
+    // // 微信收款码
+    // WeChat: '/assets/images/wechat.webp'
   }
 }
 ```
